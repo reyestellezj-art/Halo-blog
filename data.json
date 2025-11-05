@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "El regreso del Jefe Maestro en Halo Infinite",
+    "descripcion": "343 Industries renovó la experiencia de Halo con Infinite, recuperando la esencia clásica del combate en un mundo abierto.",
+    "categoria": "Videojuegos",
+    "imagen": "img/masterchef.webp",
+    "fecha": "4 nov 2025"
+  },
+  {
+    "id": 2,
+    "titulo": "La historia de Cortana y su evolución",
+    "descripcion": "Desde su creación hasta su papel clave en Halo Infinite, analizamos la inteligencia artificial más famosa de la saga.",
+    "categoria": "Personajes",
+    "imagen": "img/port5.jpeg",
+    "fecha": "3 nov 2025"
+  },
+  {
+    "id": 3,
+    "titulo": "Cronología completa del universo Halo",
+    "descripcion": "Explora los eventos más importantes del universo Halo, desde los Forerunners hasta el despertar del Flood.",
+    "categoria": "Lore y cronología",
+    "imagen": "img/port3.jpg",
+    "fecha": "2 nov 2025"
+  },
+  {
+    "id": 4,
+    "titulo": "Equipo azul y equipo rojo: una rivalidad épica",
+    "descripcion": "Explora la rivalidad entre los equipos más icónicos de Halo.",
+    "categoria": "Lore y rivalidades",
+    "imagen": "img/port2.jpg",
+    "fecha": "2 nov 2025"
+  }
+]
